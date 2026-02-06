@@ -1,0 +1,9 @@
+pip install -q langchain-core==0.3.1
+pip install -q langchain==0.3.1
+pip install -q langchain-community==0.3.1
+pip install -q langchain-huggingface==0.1.1
+pip install -q faiss-cpu==1.10.0
+pip install -q sentence-transformers==3.1.0
+pip install -q langchain-classic
+pip install langchain_groq PyMuPDF -q
+pip install numpy==1.26.3
